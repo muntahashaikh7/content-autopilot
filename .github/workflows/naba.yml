@@ -1,0 +1,30 @@
+name: Naba autopilot
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # 06:00 PKT daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  naba:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Trend watch (free sources)
+        run: python3 scripts/naba.py
+      - name: Commit daily pack
+        run: |
+          git config user.name "mjs-autopilot"
+          git config user.email "mjs-autopilot@users.noreply.github.com"
+          git add daily state/naba.json
+          git diff --cached --quiet && echo "nothing new" && exit 0
+          git commit -m "Naba pack $(date -u +%F): $(python3 -c "import json,datetime;print(json.load(open('daily/'+datetime.date.today().isoformat()+'/naba-pack.json'))['rotation'])")"
+          git pull --rebase origin main || true
+          git push || (sleep 15 && git pull --rebase origin main && git push)
