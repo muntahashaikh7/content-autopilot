@@ -1,0 +1,30 @@
+name: Nostalgia autopilot
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # 05:30 PKT daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  nostalgia:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Trend watch (free sources)
+        run: python3 scripts/nostalgia.py
+      - name: Commit daily brief
+        run: |
+          git config user.name "mjs-autopilot"
+          git config user.email "mjs-autopilot@users.noreply.github.com"
+          git add daily state/nostalgia.json
+          git diff --cached --quiet && echo "nothing new" && exit 0
+          git commit -m "Nostalgia brief $(date -u +%F): $(python3 -c "import json,datetime;print(json.load(open('daily/'+datetime.date.today().isoformat()+'/nostalgia-brief.json'))['topic'])")"
+          git pull --rebase origin main || true
+          git push || (sleep 15 && git pull --rebase origin main && git push)
