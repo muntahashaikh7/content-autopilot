@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-15",
+ "news_nostalgia": [
+  "google news",
+  "‘90s kids are parents now—and they’re passing these 6 lessons to gen alpha - parents",
+  "79 forgotten things that could send 90s kids straight down memory lane - aol.com",
+  "look: these iconic '90s shampoos deserve a nostalgia reboot - popcrush",
+  "🛍️ we all have a shop from our childhood that meant the world to us that sadly no longer exists, for many it’s one that first opened in manchester in the 1990s. if you were a kid in the 1990s, you'll have fond memories of when movie and tv studio warner bros. - facebook",
+  "19 super-specific memories that are giving people instant childhood nostalgia - upworthy",
+  "40 nostalgic ’90s facts that’ll hit you right in the childhood - brewtiful living",
+  "what if your kids had a '90s summer? - the everymom",
+  "8 sounds every ’90s kid instantly recognizes - mental floss",
+  "nostalgic ‘90s summer recipes that will take you right back to the good ol' days - delish",
+  "what snow days were like for kids in the ’90s - thefw",
+  "why is 90's nostalgia becoming the new luxury at indian weddings? - everything experiential",
+  "retro parenting: raising your kids like it's 1996! - capsule nz",
+  "10 after-school snacks kids always ate in the '90s - www.foodrepublic.com",
+  "morning at the 90s bakery |fresh bread smell, school kids &amp; warm| ghibli style india nostalgia - youtube"
+ ],
+ "news_retro": [
+  "google news",
+  "when nostalgia becomes a memory we never lived: the 80s ai trend - counterview",
+  "pinterest 2026 trend report: nostalgic toys are back - the mercury news",
+  "totally rad: 26 retro toys you can buy today—and kids still love - forbes",
+  "barbie houses: the nostalgia effect of an icon from our childhood coming back in trend - whoopsee",
+  "how to create viral handshake with your younger self video with simple google gemini prompts | trending - hindustan times",
+  "how i used google gemini to hug my younger self, with a baby trend - india today",
+  "blast from the past: how brands are turning retro into revenue - fast company middle east",
+  "hug my younger self: how to create an ai image of you hugging your younger self using gemini nano banana - the times of india",
+  "after ai saree, ‘hug my younger self’ ruling instagram trends: here’s a step-by-step guide on how you can c... - bhaskar english",
+  "brands in india that nailed (and failed) the nostalgia craze - branding in asia",
+  "gemini ai photo: viral polaroid trend (prompt included) - www.perfectcorp.com",
+  "nano banana ai trend goes viral: google shares 10 creative and free prompts in gemini app; try now - the times of india",
+  "google gemini ‘hug my younger self’ trend: simple prompt to create adorable polaroid image | trending - hindustan times",
+  "a musical comeback: the trend of using old songs in new films - the new indian express"
+ ],
+ "seasonal_next_60d": [
+  {
+   "event": "Halloween",
+   "date": "2026-10-31",
+   "in_days": 16,
+   "keywords": [
+    "halloween",
+    "spooky",
+    "october"
+   ]
+  },
+  {
+   "event": "Diwali",
+   "date": "2026-11-08",
+   "in_days": 24,
+   "keywords": [
+    "diwali",
+    "festival of lights"
+   ]
+  },
+  {
+   "event": "Thanksgiving",
+   "date": "2026-11-26",
+   "in_days": 42,
+   "keywords": [
+    "thanksgiving",
+    "fall",
+    "autumn",
+    "friendsgiving"
+   ]
+  },
+  {
+   "event": "Black Friday / Cyber Monday",
+   "date": "2026-11-27",
+   "in_days": 43,
+   "keywords": [
+    "black friday",
+    "cyber monday",
+    "bfcm",
+    "sale"
+   ]
+  }
+ ],
+ "note": "Free sources only. _err = source failed, skipped gracefully."
+}
