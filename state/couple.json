@@ -19,6 +19,11 @@
    "date": "2026-10-15",
    "key": "thermostat-war",
    "formula": "F4 angry-sweet"
+  },
+  {
+   "date": "2026-10-16",
+   "key": "charger-thief",
+   "formula": "F1 romantic-sweet"
   }
  ]
 }
