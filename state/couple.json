@@ -39,6 +39,11 @@
    "date": "2026-10-19",
    "key": "kitchen-takeover",
    "formula": "F4 angry-sweet"
+  },
+  {
+   "date": "2026-10-20",
+   "key": "plans-vs-couch",
+   "formula": "F1 romantic-sweet"
   }
  ]
 }
