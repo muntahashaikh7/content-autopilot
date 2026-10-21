@@ -1,0 +1,88 @@
+{
+ "date": "2026-10-21",
+ "news_ai_couple_reels": [
+  "google news",
+  "france riots: ai photos falsely depict elderly couple 'stripped and robbed' - truth or fake - france 24",
+  "viral france riots image of stripped elderly couple flagged as ai after police unions share photograph - inkl",
+  "creator behind viral avengers x south indian wedding crossover reel reveals the ai solutions he used - indulgexpress",
+  "1980s ai photo trend: 10 chatgpt prompts to turn your photos retro | india news - hindustan times",
+  "instagram trending horror couple ai photo | viral horror ai photo editing tutorial 😍 - youtube",
+  "the viral 80s ai photo trend is giving internet a serious retro makeover - india today",
+  "seen the viral 1980s photo trend?: here's the story behind it, how to create your own ai photos and whether... - bhaskar english",
+  "1980s ai photo trend: 7 chatgpt prompts to create retro kerala-style images - the indian express",
+  "kiara advani and sidharth malhotra recreate 80s bollywood magic in viral ai trend, fans compare their loo - the times of india",
+  "tom holland confirms marriage to zendaya following speculation and viral ai pics - bbc",
+  "how to recreate the empire state building flag trend | hindustan times - hindustan times",
+  "1980s ai photo trend: 5 chatgpt prompts to create bollywood hero, heroine looks, movie posters | india news - hindustan times",
+  "‘they’re ai’ zendaya cleared the air on the viral “wedding photos” with tom holland—revealing they were ai-generated during her guesting on jimmy kimmel live!. the actress shared that many people even those she knows personally were convinced the - facebook",
+  "fact check: ai video of white couple with two black babies in delivery room is not real -- comedy skit - yahoo"
+ ],
+ "news_couple_comedy": [
+  "google news",
+  "at 82 and 70, married influencers show it’s never too late to go viral - south china morning post",
+  "mom turns texts from teenage son into an emo ballad, and it has no right to be this good - upworthy",
+  "cakewalk or not? 5 creator couples get candid over content creation - shethepeople",
+  "the ultimate comedy prop? a newborn baby! new dads jack whitehall and joel dommett lead trend for famous fathers using their recent arrivals to unleash a slew of dad jokes - daily mail"
+ ],
+ "news_short_drama": [
+  "google news",
+  "\"the drama\" is an unsettling dark comedy - the rider news",
+  "‘modern family’: julie bowen and ty burrell star in funny skit for meningitis awareness - yahoo",
+  "wedding comedy 'the drama' is an audaciously uncomfortable affair - wbur",
+  "'the drama' is a half-baked comedy about wedding stress and cancel culture - npr",
+  "this husband-and-wife team hilariously imagines how trader joe’s came to be - godtube.com",
+  "the drama is an uneasy comedy about the limits of forgiveness - metro weekly",
+  "'some will be appalled': the drama's horrifying twist is set to divide audiences - bbc",
+  "'the drama' review: zendaya and robert pattinson star in a provocative wedding comedy - npr",
+  "‘the drama’ review: kristoffer borgli’s provocative, squirm-inducing rom-com - slant magazine",
+  "bts’ rm surprises fans with first driving video after license - the korea times",
+  "funny short video: the first couple ever to get married - boing boing",
+  "‘the drama’: a dark comedy about thought, guilt, and perception - mail &amp; guardian",
+  "couple nails every hallmark christmas movie cliché in this hysterical parody - godtube.com",
+  "'art of leaving' off-broadway review — comedy-drama explores multigenerational marriage crises - new york theatre guide"
+ ],
+ "seasonal_next_60d": [
+  {
+   "event": "Halloween",
+   "date": "2026-10-31",
+   "in_days": 10,
+   "keywords": [
+    "halloween",
+    "spooky",
+    "october"
+   ]
+  },
+  {
+   "event": "Diwali",
+   "date": "2026-11-08",
+   "in_days": 18,
+   "keywords": [
+    "diwali",
+    "festival of lights"
+   ]
+  },
+  {
+   "event": "Thanksgiving",
+   "date": "2026-11-26",
+   "in_days": 36,
+   "keywords": [
+    "thanksgiving",
+    "fall",
+    "autumn",
+    "friendsgiving"
+   ]
+  },
+  {
+   "event": "Black Friday / Cyber Monday",
+   "date": "2026-11-27",
+   "in_days": 37,
+   "keywords": [
+    "black friday",
+    "cyber monday",
+    "bfcm",
+    "sale"
+   ]
+  }
+ ],
+ "note": "Free sources only. _err = source failed, skipped gracefully. IG model pages need login — checked on main runtime, not here."
+}
