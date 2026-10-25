@@ -64,6 +64,11 @@
    "date": "2026-10-24",
    "key": "mirror-time",
    "formula": "F1 romantic-sweet"
+  },
+  {
+   "date": "2026-10-25",
+   "key": "selective-hearing",
+   "formula": "F2 funny-domestic"
   }
  ]
 }
