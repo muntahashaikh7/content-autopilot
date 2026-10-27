@@ -1,0 +1,65 @@
+{
+ "date": "2026-10-27",
+ "rotation": "D",
+ "product": "scurve",
+ "vo_name": "S-Curve",
+ "angle": "Use-case story reel — ek haftay me kitchen makeover lifestyle kahani",
+ "hook": {
+  "key": "before-after",
+  "desc": "bikhra → tarteeb, 3-second transformation"
+ },
+ "vo_script": "[0-3s HOOK] Tired of messy shelves? Watch this. [3-8s DEMO] The S-Curve — one hundred percent waterproof, heat resistant, holds up to 4KG with a solid metal bracket. [8-13s PROOF] Spices, bottles, bathroom essentials — everything in its place. [13-15s CTA] Rs 2,000 (Single) | Rs 3,600 (Pair). Cash on Delivery across Pakistan. WhatsApp: 0320 9209652.",
+ "title_overlays": [
+  "Upgrade Your Home Decor",
+  "100% Waterproof PVC",
+  "Holds 4KG",
+  "Metal Bracket Mount",
+  "Rs 2,000 (Single) | Rs 3,600 (Pair). Cash on Delivery across Pakistan. WhatsApp: 0320 9209652."
+ ],
+ "ig_caption": "Messy shelves? Not anymore! The S-Curve by NABA Decor — 100% waterproof, heat resistant, holds 4KG on a solid metal bracket.\nRs 2,000 (Single) | Rs 3,600 (Pair). Cash on Delivery across Pakistan. WhatsApp: 0320 9209652.\n#homedecor #wallshelf #pakistan #onlineshopping #interiordesign",
+ "ig_hashtags": [
+  "#homedecor",
+  "#wallshelf",
+  "#pakistan",
+  "#onlineshopping",
+  "#interiordesign"
+ ],
+ "fb_caption": "Upgrade your kitchen & bathroom! S-Curve — 100% waterproof, 4KG load, metal bracket mount.\nRs 2,000 (Single) | Rs 3,600 (Pair). Cash on Delivery across Pakistan. WhatsApp: 0320 9209652.\n#homedecor #wallshelf #onlineshopping",
+ "fb_hashtags": [
+  "#homedecor",
+  "#wallshelf",
+  "#onlineshopping"
+ ],
+ "pin_titles": [
+  "S-Curve Wall Shelf — 100% Waterproof Kitchen Organizer",
+  "Small Kitchen? This S-Curve Shelf Fixes It",
+  "Bathroom Storage Idea — S-Curve (COD Pakistan)"
+ ],
+ "claims_check": {
+  "used_only_allowed": true,
+  "allowed": [
+   "100% waterproof",
+   "heat resistant",
+   "4KG load",
+   "metal bracket (drill mount)",
+   "Rs 2,000 single",
+   "Rs 3,600 pair",
+   "Cash on Delivery across Pakistan",
+   "WhatsApp 0320 9209652"
+  ],
+  "avoided": [
+   "suction cup / no drill",
+   "custom sizes",
+   "free delivery",
+   "same-day delivery",
+   "rust-proof",
+   "fake scarcity",
+   "fake reviews",
+   "15-20KG load"
+  ]
+ },
+ "naming_rule": "Text me 'NABA Decor' OK; voiceover me sirf '2 Tier'/'S-Curve'.",
+ "trend_snapshot": {
+  "news_hits": 15
+ }
+}
