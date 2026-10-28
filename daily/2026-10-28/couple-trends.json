@@ -1,0 +1,98 @@
+{
+ "date": "2026-10-28",
+ "news_ai_couple_reels": [
+  "google news",
+  "truth or fake - france riots: ai photos falsely depict elderly couple 'stripped and robbed' - france 24",
+  "seen the viral 1980s photo trend?: here's the story behind it, how to create your own ai photos and whether... - bhaskar english",
+  "1980s ai photo trend: 10 chatgpt prompts to turn your photos retro | india news - hindustan times",
+  "instagram’s viral chatgpt ’80s photo trend: how to make your own stylish and unique retro ai picture - the times of india",
+  "here's how to spot a fake or ai tornado video - the weather channel",
+  "tom holland confirms marriage to zendaya following speculation and viral ai pics - bbc",
+  "fact check: ai video of white couple with two black babies in delivery room is not real -- comedy skit - yahoo",
+  "taylor swift accused of using ai in viral videos: what to know - newsweek",
+  "'it's love in the middle of a disaster': the couple who married in typhoon floods - bbc",
+  "people are turning text message threads into fun songs using ai in a new trend on social media - nbc news",
+  "debunking the ai food delivery hoax that fooled reddit - platformer",
+  "ai videos are tricking tourists into visiting places that don’t exist. that’s just the beginning - fast company",
+  "pink panther arrested in france? viral protest images are ai-made - fact crescendo sri lanka",
+  "woman marries ai-generated boyfriend, wears augmented reality smart glasses to exchange rings - people.com"
+ ],
+ "news_couple_comedy": [
+  "google news",
+  "mom turns texts from teenage son into an emo ballad, and it has no right to be this good - upworthy",
+  "cakewalk or not? 5 creator couples get candid over content creation - shethepeople",
+  "the ultimate comedy prop? a newborn baby! new dads jack whitehall and joel dommett lead trend for famous fathers using their recent arrivals to unleash a slew of dad jokes - daily mail"
+ ],
+ "news_short_drama": [
+  "google news",
+  "\"the drama\" is an unsettling dark comedy - the rider news",
+  "wedding comedy 'the drama' is an audaciously uncomfortable affair - wbur",
+  "'the drama' is a half-baked comedy about wedding stress and cancel culture - npr",
+  "the drama is an uneasy comedy about the limits of forgiveness - metro weekly",
+  "‘the drama’ review: kristoffer borgli’s provocative, squirm-inducing rom-com - slant magazine",
+  "‘modern family’: julie bowen and ty burrell star in funny skit for meningitis awareness - aol.com",
+  "'some will be appalled': the drama's horrifying twist is set to divide audiences - bbc",
+  "john park and baek jin kyung’s married-couple acting sparks a ‘blast’ of chemistry... “why are they so good?” - 스포츠조선",
+  "frankie muniz's estranged wife responds after actor deletes initial divorce announcement: 'this world is so f--ked' - page six",
+  "'the drama' review: zendaya and robert pattinson star in a provocative wedding comedy - npr",
+  "funny short video: the first couple ever to get married - boing boing",
+  "‘the drama’: a dark comedy about thought, guilt, and perception - mail &amp; guardian",
+  "couple nails every hallmark christmas movie cliché in this hysterical parody - godtube.com",
+  "melissa mccarthy shares the 'real keys to happiness' in funny video - today.com"
+ ],
+ "seasonal_next_60d": [
+  {
+   "event": "Halloween",
+   "date": "2026-10-31",
+   "in_days": 3,
+   "keywords": [
+    "halloween",
+    "spooky",
+    "october"
+   ]
+  },
+  {
+   "event": "Diwali",
+   "date": "2026-11-08",
+   "in_days": 11,
+   "keywords": [
+    "diwali",
+    "festival of lights"
+   ]
+  },
+  {
+   "event": "Thanksgiving",
+   "date": "2026-11-26",
+   "in_days": 29,
+   "keywords": [
+    "thanksgiving",
+    "fall",
+    "autumn",
+    "friendsgiving"
+   ]
+  },
+  {
+   "event": "Black Friday / Cyber Monday",
+   "date": "2026-11-27",
+   "in_days": 30,
+   "keywords": [
+    "black friday",
+    "cyber monday",
+    "bfcm",
+    "sale"
+   ]
+  },
+  {
+   "event": "Christmas",
+   "date": "2026-12-25",
+   "in_days": 58,
+   "keywords": [
+    "christmas",
+    "holiday",
+    "xmas",
+    "december"
+   ]
+  }
+ ],
+ "note": "Free sources only. _err = source failed, skipped gracefully. IG model pages need login — checked on main runtime, not here."
+}
