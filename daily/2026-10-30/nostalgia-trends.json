@@ -1,0 +1,88 @@
+{
+ "date": "2026-10-30",
+ "news_nostalgia": [
+  "google news",
+  "90s con brings nostalgia, celebrities, and childhood memories back to hartford - nbc connecticut",
+  "‘90s kids are parents now—and they’re passing these 6 lessons to gen alpha - parents",
+  "a new york times reader reminisced about “double dare,” the nickelodeon children’s show that debuted 40 years ago, in our comments with our reporter, sopan deb. see what else our readers are getting nostalgic about here. https://nyti.ms/3vnskbx - facebook",
+  "what if your kids had a '90s summer? - the everymom",
+  "40 nostalgic ’90s facts that’ll hit you right in the childhood - brewtiful living",
+  "89 photos that will take '90s kids on a super nostalgic trip down memory lane - buzzfeed",
+  "19 super-specific memories that are giving people instant childhood nostalgia - upworthy",
+  "look: these iconic '90s shampoos deserve a nostalgia reboot - popcrush",
+  "8 sounds every ’90s kid instantly recognizes - mental floss",
+  "nostalgic ‘90s summer recipes that will take you right back to the good ol' days - delish",
+  "retro parenting: raising your kids like it's 1996! - capsule nz",
+  "why is 90's nostalgia becoming the new luxury at indian weddings? - everything experiential",
+  "what snow days were like for kids in the ’90s - thefw",
+  "10 after-school snacks kids always ate in the '90s - www.foodrepublic.com"
+ ],
+ "news_retro": [
+  "google news",
+  "pinterest 2026 trend report: nostalgic toys are back - the mercury news",
+  "seen the viral 1980s photo trend?: here's the story behind it, how to create your own ai photos and whether... - bhaskar english",
+  "1980s ai photo trend: 10+ prompts to turn your photos into vintage kerala hero and heroine images from old - the economic times",
+  "bored of the ai saree trend? try the ‘hug my younger self’ using gemini nano banana: how to create it - moneycontrol.com",
+  "the viral ‘handshake with younger self’ trend is melting hearts: create your own ai-generated ‘childhood se... - bhaskar english",
+  "pinterest 2026 trend report: nostalgic toys are back - bestreviews",
+  "hug my younger self prompt : 25 ai prompts to relive your childhood - techmitra",
+  "forget viral saree ai trend: how to create ‘hug my younger self’ images with gemini nano banana - livemint",
+  "viral ai photo trend lets you create emotional ‘childhood self’ portraits; here’s how - mathrubhumi english",
+  "10 gemini prompts for ‘meri kahani - atif aslam’ trend to relive memories with someone you miss - mathrubhumi english"
+ ],
+ "seasonal_next_60d": [
+  {
+   "event": "Halloween",
+   "date": "2026-10-31",
+   "in_days": 1,
+   "keywords": [
+    "halloween",
+    "spooky",
+    "october"
+   ]
+  },
+  {
+   "event": "Diwali",
+   "date": "2026-11-08",
+   "in_days": 9,
+   "keywords": [
+    "diwali",
+    "festival of lights"
+   ]
+  },
+  {
+   "event": "Thanksgiving",
+   "date": "2026-11-26",
+   "in_days": 27,
+   "keywords": [
+    "thanksgiving",
+    "fall",
+    "autumn",
+    "friendsgiving"
+   ]
+  },
+  {
+   "event": "Black Friday / Cyber Monday",
+   "date": "2026-11-27",
+   "in_days": 28,
+   "keywords": [
+    "black friday",
+    "cyber monday",
+    "bfcm",
+    "sale"
+   ]
+  },
+  {
+   "event": "Christmas",
+   "date": "2026-12-25",
+   "in_days": 56,
+   "keywords": [
+    "christmas",
+    "holiday",
+    "xmas",
+    "december"
+   ]
+  }
+ ],
+ "note": "Free sources only. _err = source failed, skipped gracefully."
+}
