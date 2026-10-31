@@ -94,6 +94,11 @@
    "date": "2026-10-30",
    "key": "birthday-forget",
    "formula": "F3 comedy-exaggeration"
+  },
+  {
+   "date": "2026-10-31",
+   "key": "selfie-angle",
+   "formula": "F4 angry-sweet"
   }
  ]
 }
