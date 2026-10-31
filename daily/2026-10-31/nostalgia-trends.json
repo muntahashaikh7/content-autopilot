@@ -1,0 +1,92 @@
+{
+ "date": "2026-10-31",
+ "news_nostalgia": [
+  "google news",
+  "jooyoung interview: '90s kids', new music and europe tour - sweety high",
+  "‘90s kids are parents now—and they’re passing these 6 lessons to gen alpha - parents",
+  "90s con brings nostalgia, celebrities, and childhood memories back to hartford - nbc connecticut",
+  "what if your kids had a '90s summer? - the everymom",
+  "19 super-specific memories that are giving people instant childhood nostalgia - upworthy",
+  "retro parenting: raising your kids like it's 1996! - capsule nz",
+  "“memory unlocked”: ’90s kids are sharing the nostalgic family dinners they ate all the time 30 years ago that you don’t see that often anymore - buzzfeed",
+  "chrissy teigen unlocks memories for every '90s kid with 20 nostalgic throwbacks - people.com",
+  "40 nostalgic pictures of '90s kids things that will take millennials down a rabbit hole of pure childhood memories - yahoo",
+  "flashback fun: ’90s toys that spark instant childhood memories - thefw",
+  "19 super-specific memories all 80s and 90s kids will recognize instantly - upworthy",
+  "millennial parents want to give their children a '90s kid summer. what does that mean? - usa today",
+  "what parts of our childhood should we keep in the past? - refinery29",
+  "time to rewatch these ‘90s kids’ movies you’ve completely forgotten about - scary mommy"
+ ],
+ "news_retro": [
+  "google news",
+  "when nostalgia becomes a memory we never lived: the 80s ai trend - counterview",
+  "pinterest 2026 trend report: nostalgic toys are back - the mercury news",
+  "totally rad: 26 retro toys you can buy today—and kids still love - forbes",
+  "barbie houses: the nostalgia effect of an icon from our childhood coming back in trend - whoopsee",
+  "blast from the past: how brands are turning retro into revenue - fast company middle east",
+  "how i used google gemini to hug my younger self, with a baby trend - india today",
+  "hug my younger self: how to create an ai image of you hugging your younger self using gemini nano banana - the times of india",
+  "google gemini ‘hug my younger self’ trend: simple prompt to create adorable polaroid image | trending - hindustan times",
+  "gemini ai photo: viral polaroid trend (prompt included) - www.perfectcorp.com",
+  "how to create viral handshake with your younger self video with simple google gemini prompts | trending - hindustan times",
+  "a musical comeback: the trend of using old songs in new films - the new indian express",
+  "pinterest 2026 trend report: nostalgic toys are back - bestreviews",
+  "viral ai photo trend lets you create emotional ‘childhood self’ portraits; here’s how - mathrubhumi english",
+  "hug my younger self prompt : 25 ai prompts to relive your childhood - techmitra"
+ ],
+ "seasonal_next_60d": [
+  {
+   "event": "Halloween",
+   "date": "2026-10-31",
+   "in_days": 0,
+   "keywords": [
+    "halloween",
+    "spooky",
+    "october"
+   ]
+  },
+  {
+   "event": "Diwali",
+   "date": "2026-11-08",
+   "in_days": 8,
+   "keywords": [
+    "diwali",
+    "festival of lights"
+   ]
+  },
+  {
+   "event": "Thanksgiving",
+   "date": "2026-11-26",
+   "in_days": 26,
+   "keywords": [
+    "thanksgiving",
+    "fall",
+    "autumn",
+    "friendsgiving"
+   ]
+  },
+  {
+   "event": "Black Friday / Cyber Monday",
+   "date": "2026-11-27",
+   "in_days": 27,
+   "keywords": [
+    "black friday",
+    "cyber monday",
+    "bfcm",
+    "sale"
+   ]
+  },
+  {
+   "event": "Christmas",
+   "date": "2026-12-25",
+   "in_days": 55,
+   "keywords": [
+    "christmas",
+    "holiday",
+    "xmas",
+    "december"
+   ]
+  }
+ ],
+ "note": "Free sources only. _err = source failed, skipped gracefully."
+}
