@@ -99,6 +99,11 @@
    "date": "2026-10-31",
    "key": "selfie-angle",
    "formula": "F4 angry-sweet"
+  },
+  {
+   "date": "2026-11-01",
+   "key": "cake-share",
+   "formula": "F1 romantic-sweet"
   }
  ]
 }
