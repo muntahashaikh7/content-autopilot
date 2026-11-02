@@ -104,6 +104,11 @@
    "date": "2026-11-01",
    "key": "cake-share",
    "formula": "F1 romantic-sweet"
+  },
+  {
+   "date": "2026-11-02",
+   "key": "cake-share",
+   "formula": "F2 funny-domestic"
   }
  ]
 }
