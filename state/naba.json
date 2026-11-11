@@ -119,6 +119,10 @@
   {
    "date": "2026-11-10",
    "key": "before-after"
+  },
+  {
+   "date": "2026-11-11",
+   "key": "load-test"
   }
  ]
 }
