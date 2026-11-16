@@ -1,0 +1,60 @@
+{
+ "date": "2026-11-16",
+ "news_ai_couple_reels": [
+  "_err:HTTPError"
+ ],
+ "news_couple_comedy": [
+  "_err:HTTPError"
+ ],
+ "news_short_drama": [
+  "_err:HTTPError"
+ ],
+ "seasonal_next_60d": [
+  {
+   "event": "Thanksgiving",
+   "date": "2026-11-26",
+   "in_days": 10,
+   "keywords": [
+    "thanksgiving",
+    "fall",
+    "autumn",
+    "friendsgiving"
+   ]
+  },
+  {
+   "event": "Black Friday / Cyber Monday",
+   "date": "2026-11-27",
+   "in_days": 11,
+   "keywords": [
+    "black friday",
+    "cyber monday",
+    "bfcm",
+    "sale"
+   ]
+  },
+  {
+   "event": "Christmas",
+   "date": "2026-12-25",
+   "in_days": 39,
+   "keywords": [
+    "christmas",
+    "holiday",
+    "xmas",
+    "december"
+   ]
+  },
+  {
+   "event": "New Year",
+   "date": "2027-01-01",
+   "in_days": 46,
+   "keywords": [
+    "new year",
+    "2027",
+    "2028",
+    "january",
+    "countdown"
+   ]
+  }
+ ],
+ "note": "Free sources only. _err = source failed, skipped gracefully. IG model pages need login — checked on main runtime, not here."
+}
