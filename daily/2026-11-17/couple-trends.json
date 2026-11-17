@@ -1,0 +1,84 @@
+{
+ "date": "2026-11-17",
+ "news_ai_couple_reels": [
+  "google news",
+  "truth or fake - france riots: ai photos falsely depict elderly couple 'stripped and robbed' - france 24",
+  "instagram trending kalyani song ai reels editing tutorial | ai girl animation video editing tutorial - youtube",
+  "6 best ai companion apps for couples who roleplay together - technology org",
+  "instagram’s viral chatgpt ’80s photo trend: how to make your own stylish and unique retro ai picture - the times of india",
+  "tom holland confirms marriage to zendaya following speculation and viral ai pics - bbc",
+  "taylor swift accused of using ai in viral videos: what to know - newsweek",
+  "how ai helped me get 7 million views on instagram reels - entrepreneur",
+  "fact check: ai video of white couple with two black babies in delivery room is not real -- comedy skit - yahoo",
+  "debunking the ai food delivery hoax that fooled reddit - platformer",
+  "ai videos are tricking tourists into visiting places that don’t exist. that’s just the beginning - fast company",
+  "people are turning text message threads into fun songs using ai in a new trend on social media - nbc news",
+  "watch the viral 'ad' that imagines aged elon musk, sam altman, and jeff bezos promoting a creepy energy source for ai - business insider",
+  "woman marries ai-generated boyfriend, wears augmented reality smart glasses to exchange rings - people.com",
+  "zendaya and tom holland’s viral 'wedding' ai photos explained - bbc"
+ ],
+ "news_couple_comedy": [
+  "google news",
+  "mom turns texts from teenage son into an emo ballad, and it has no right to be this good - upworthy",
+  "amanda knox defends her comedy show at edinburgh festival - nbc news",
+  "the vogue business tiktok trend tracker - vogue",
+  "social media's ‘weekend lover’ trend has users commiserating about secret situationships - people.com",
+  "35 best movies to watch if you love the fake dating trope, ranked - collider",
+  "25 australian tiktok creators brands should know in 2025 - sprout social",
+  "couple recording a tiktok trend gets interrupted by their confused dad who can’t look away - upworthy",
+  "100 funny couples captions for instagram to share on national couples day - yourtango",
+  "the ultimate comedy prop? a newborn baby! new dads jack whitehall and joel dommett lead trend for famous fathers using their recent arrivals to unleash a slew of dad jokes - daily mail",
+  "25 top influencer couples taking over 2026 with billion-dollar brand empires - amra &amp; elma"
+ ],
+ "news_short_drama": [
+  "_err:HTTPError"
+ ],
+ "seasonal_next_60d": [
+  {
+   "event": "Thanksgiving",
+   "date": "2026-11-26",
+   "in_days": 9,
+   "keywords": [
+    "thanksgiving",
+    "fall",
+    "autumn",
+    "friendsgiving"
+   ]
+  },
+  {
+   "event": "Black Friday / Cyber Monday",
+   "date": "2026-11-27",
+   "in_days": 10,
+   "keywords": [
+    "black friday",
+    "cyber monday",
+    "bfcm",
+    "sale"
+   ]
+  },
+  {
+   "event": "Christmas",
+   "date": "2026-12-25",
+   "in_days": 38,
+   "keywords": [
+    "christmas",
+    "holiday",
+    "xmas",
+    "december"
+   ]
+  },
+  {
+   "event": "New Year",
+   "date": "2027-01-01",
+   "in_days": 45,
+   "keywords": [
+    "new year",
+    "2027",
+    "2028",
+    "january",
+    "countdown"
+   ]
+  }
+ ],
+ "note": "Free sources only. _err = source failed, skipped gracefully. IG model pages need login — checked on main runtime, not here."
+}
