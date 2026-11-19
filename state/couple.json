@@ -189,6 +189,11 @@
    "date": "2026-11-18",
    "key": "kitchen-takeover",
    "formula": "F2 funny-domestic"
+  },
+  {
+   "date": "2026-11-19",
+   "key": "plans-vs-couch",
+   "formula": "F3 comedy-exaggeration"
   }
  ]
 }
