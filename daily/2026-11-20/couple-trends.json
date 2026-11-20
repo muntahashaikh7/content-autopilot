@@ -1,0 +1,82 @@
+{
+ "date": "2026-11-20",
+ "news_ai_couple_reels": [
+  "_err:HTTPError"
+ ],
+ "news_couple_comedy": [
+  "google news",
+  "mom turns texts from teenage son into an emo ballad, and it has no right to be this good - upworthy",
+  "the vogue business tiktok trend tracker - vogue",
+  "10 fun tiktok trends for couples to try out when traveling - matador network",
+  "social media's ‘weekend lover’ trend has users commiserating about secret situationships - people.com",
+  "35 best movies to watch if you love the fake dating trope, ranked - collider",
+  "25 australian tiktok creators brands should know in 2025 - sprout social",
+  "100 funny couples captions for instagram to share on national couples day - yourtango",
+  "25 top influencer couples taking over 2026 with billion-dollar brand empires - amra &amp; elma"
+ ],
+ "news_short_drama": [
+  "google news",
+  "'the drama' review: zendaya and robert pattinson star in a provocative wedding comedy - npr",
+  "'some will be appalled': the drama's horrifying twist is set to divide audiences - bbc",
+  "‘the drama’ trailer: zendaya and robert pattinson are getting married and losing their minds in a24 dark comedy - variety",
+  "melissa mccarthy shares the 'real keys to happiness' in funny video - today.com",
+  "ranking the 53 best skits from all 53 episodes of “key &amp; peele” - buzzfeed",
+  "'art of leaving' off-broadway review — comedy-drama explores multigenerational marriage crises - new york theatre guide",
+  "review: \"the drama\" is a nightmare to watch and even worse to describe - blog - the film experience",
+  "seinfeld’s jason alexander apologizes to courtney stodden for ‘inappropriate’ sketch made when she was a teenager - the guardian",
+  "how the final scene of the drama sheds light on the meaning of its big twist - time magazine",
+  "hunter fieri and fianceé bicker while planning wedding and fans are loving it - people.com",
+  "the 50 best date night movies to set the mood - purewow",
+  "35 best movies about dysfunctional &amp; toxic romantic relationships - collider",
+  "jennifer aniston &amp; adam sandler tease murder mystery 2 in funny video call - screenrant",
+  "akilah hughes seemingly says this is why key &amp; peele no longer work together, but sources dispute it - complex"
+ ],
+ "seasonal_next_60d": [
+  {
+   "event": "Thanksgiving",
+   "date": "2026-11-26",
+   "in_days": 6,
+   "keywords": [
+    "thanksgiving",
+    "fall",
+    "autumn",
+    "friendsgiving"
+   ]
+  },
+  {
+   "event": "Black Friday / Cyber Monday",
+   "date": "2026-11-27",
+   "in_days": 7,
+   "keywords": [
+    "black friday",
+    "cyber monday",
+    "bfcm",
+    "sale"
+   ]
+  },
+  {
+   "event": "Christmas",
+   "date": "2026-12-25",
+   "in_days": 35,
+   "keywords": [
+    "christmas",
+    "holiday",
+    "xmas",
+    "december"
+   ]
+  },
+  {
+   "event": "New Year",
+   "date": "2027-01-01",
+   "in_days": 42,
+   "keywords": [
+    "new year",
+    "2027",
+    "2028",
+    "january",
+    "countdown"
+   ]
+  }
+ ],
+ "note": "Free sources only. _err = source failed, skipped gracefully. IG model pages need login — checked on main runtime, not here."
+}
