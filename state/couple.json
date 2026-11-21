@@ -199,6 +199,11 @@
    "date": "2026-11-20",
    "key": "remote-control",
    "formula": "F4 angry-sweet"
+  },
+  {
+   "date": "2026-11-21",
+   "key": "last-bite",
+   "formula": "F1 romantic-sweet"
   }
  ]
 }
