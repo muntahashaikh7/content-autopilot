@@ -204,6 +204,11 @@
    "date": "2026-11-21",
    "key": "last-bite",
    "formula": "F1 romantic-sweet"
+  },
+  {
+   "date": "2026-11-22",
+   "key": "blanket-hog",
+   "formula": "F2 funny-domestic"
   }
  ]
 }
