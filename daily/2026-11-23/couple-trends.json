@@ -1,0 +1,99 @@
+{
+ "date": "2026-11-23",
+ "news_ai_couple_reels": [
+  "google news",
+  "#scoopzreels #scoopz #reels#viralfyp #fypviral #ai - newsbreak: local news &amp; alerts",
+  "how to create gta 6-style ai photos using gemini and chatgpt: try these 5 easy prompts for instagram-worthy images - the times of india",
+  "truth or fake - france riots: ai photos falsely depict elderly couple 'stripped and robbed' - france 24",
+  "chatgpt '90s photo trend: 10 best ai photo editing prompts for the viral retro look - esquire india",
+  "instagram trending kalyani song ai reels editing tutorial | ai girl animation video editing tutorial - youtube",
+  "tom holland confirms marriage to zendaya following speculation and viral ai pics - bbc",
+  "instagram’s viral chatgpt ’80s photo trend: how to make your own stylish and unique retro ai picture - the times of india",
+  "reese witherspoon has gone viral for saying “it’s time” to learn ai. not everyone is thrilled by that - the hollywood reporter",
+  "taylor swift accused of using ai in viral videos: what to know - newsweek",
+  "how ai helped me get 7 million views on instagram reels - entrepreneur",
+  "debunking the ai food delivery hoax that fooled reddit - platformer",
+  "fact check: ai video of white couple with two black babies in delivery room is not real -- comedy skit - yahoo",
+  "ai videos are tricking tourists into visiting places that don’t exist. that’s just the beginning - fast company",
+  "woman marries ai-generated boyfriend, wears augmented reality smart glasses to exchange rings - people.com"
+ ],
+ "news_couple_comedy": [
+  "google news",
+  "the vogue business tiktok trend tracker - vogue",
+  "social media's ‘weekend lover’ trend has users commiserating about secret situationships - people.com",
+  "mom turns texts from teenage son into an emo ballad, and it has no right to be this good - upworthy",
+  "the odd couple | comedy, jack lemmon, walter matthau - britannica",
+  "10 fun tiktok trends for couples to try out when traveling - matador network",
+  "“couples hire me to recreate tiktok trends”: meet a full-time wedding content creator - toronto life",
+  "35 best movies to watch if you love the fake dating trope, ranked - collider",
+  "25 australian tiktok creators brands should know in 2025 - sprout social",
+  "5 pinoy celebrity couples who make us laugh with their online videos - gma network",
+  "couple recording a tiktok trend gets interrupted by their confused dad who can’t look away - upworthy",
+  "100 funny couples captions for instagram to share on national couples day - yourtango"
+ ],
+ "news_short_drama": [
+  "google news",
+  "wedding comedy 'the drama' is an audaciously uncomfortable affair - wbur",
+  "the drama over marketing ‘the drama’: was the wedding-focused promo misleading or a marketing masterclass? - variety",
+  "melissa mccarthy shares the 'real keys to happiness' in funny video - today.com",
+  "'art of leaving' off-broadway review — comedy-drama explores multigenerational marriage crises - new york theatre guide",
+  "19 funny shows that’ll leave you in stitches - netflix",
+  "review: \"the drama\" is a nightmare to watch and even worse to describe - blog - the film experience",
+  "how the final scene of the drama sheds light on the meaning of its big twist - time magazine",
+  "in the drama, zendaya’s emma is — for better &amp; for worse — unlike anything we’ve ever seen - refinery29",
+  "‘the drama’ trailer: zendaya and robert pattinson are getting married and losing their minds in a24 dark comedy - variety",
+  "ashley padilla is escalating things - vulture",
+  "hunter fieri and fianceé bicker while planning wedding and fans are loving it - people.com",
+  "make ‘em laugh: the 20 best comedies on amazon prime video - entertainment weekly",
+  "unforgotten, season 5: 7 surprising facts about sanjeev bhaskar - pbs",
+  "jennifer aniston &amp; adam sandler tease murder mystery 2 in funny video call - screenrant"
+ ],
+ "seasonal_next_60d": [
+  {
+   "event": "Thanksgiving",
+   "date": "2026-11-26",
+   "in_days": 3,
+   "keywords": [
+    "thanksgiving",
+    "fall",
+    "autumn",
+    "friendsgiving"
+   ]
+  },
+  {
+   "event": "Black Friday / Cyber Monday",
+   "date": "2026-11-27",
+   "in_days": 4,
+   "keywords": [
+    "black friday",
+    "cyber monday",
+    "bfcm",
+    "sale"
+   ]
+  },
+  {
+   "event": "Christmas",
+   "date": "2026-12-25",
+   "in_days": 32,
+   "keywords": [
+    "christmas",
+    "holiday",
+    "xmas",
+    "december"
+   ]
+  },
+  {
+   "event": "New Year",
+   "date": "2027-01-01",
+   "in_days": 39,
+   "keywords": [
+    "new year",
+    "2027",
+    "2028",
+    "january",
+    "countdown"
+   ]
+  }
+ ],
+ "note": "Free sources only. _err = source failed, skipped gracefully. IG model pages need login — checked on main runtime, not here."
+}
