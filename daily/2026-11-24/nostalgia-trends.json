@@ -1,0 +1,85 @@
+{
+ "date": "2026-11-24",
+ "news_nostalgia": [
+  "google news",
+  "‘90s kids are parents now—and they’re passing these 6 lessons to gen alpha - parents",
+  "90s con brings nostalgia, celebrities, and childhood memories back to hartford - nbc connecticut",
+  "what if your kids had a '90s summer? - the everymom",
+  "19 super-specific memories that are giving people instant childhood nostalgia - upworthy",
+  "retro parenting: raising your kids like it's 1996! - capsule nz",
+  "chrissy teigen unlocks memories for every '90s kid with 20 nostalgic throwbacks - people.com",
+  "32 specific moments from childhood i’d give up all my earthly belongings to relive - buzzfeed",
+  "40 nostalgic pictures of '90s kids things that will take millennials down a rabbit hole of pure childhood memories - yahoo",
+  "millennial parents want to give their children a '90s kid summer. what does that mean? - usa today",
+  "what parts of our childhood should we keep in the past? - refinery29",
+  "you are not a ’90s kid - the eyeopener",
+  "19 super-specific memories all 80s and 90s kids will recognize instantly - upworthy",
+  "time to rewatch these ‘90s kids’ movies you’ve completely forgotten about - scary mommy",
+  "'90s parenting: here's how i'm parenting my kids like it's the '90s - the everymom"
+ ],
+ "news_retro": [
+  "google news",
+  "i grew up in the '90s. millennials will love these 11 nostalgic gifts - usa today",
+  "pinterest 2026 trend report: nostalgic toys are back - the mercury news",
+  "when nostalgia becomes a memory we never lived: the 80s ai trend - counterview",
+  "totally rad: 26 retro toys you can buy today—and kids still love - forbes",
+  "16 games and activities for anyone who wants a dose of nostalgia - today.com",
+  "how i used google gemini to hug my younger self, with a baby trend - india today",
+  "blast from the past: how brands are turning retro into revenue - fast company middle east",
+  "hug my younger self: how to create an ai image of you hugging your younger self using gemini nano banana - the times of india",
+  "10 hilarious instagram accounts for your 2000s nostalgia fix - screenrant",
+  "a musical comeback: the trend of using old songs in new films - the new indian express",
+  "gemini ai photo: viral polaroid trend (prompt included) - www.perfectcorp.com",
+  "pinterest 2026 trend report: nostalgic toys are back - bestreviews",
+  "viral ai photo trend lets you create emotional ‘childhood self’ portraits; here’s how - mathrubhumi english",
+  "barbie houses: the nostalgia effect of an icon from our childhood coming back in trend - whoopsee"
+ ],
+ "seasonal_next_60d": [
+  {
+   "event": "Thanksgiving",
+   "date": "2026-11-26",
+   "in_days": 2,
+   "keywords": [
+    "thanksgiving",
+    "fall",
+    "autumn",
+    "friendsgiving"
+   ]
+  },
+  {
+   "event": "Black Friday / Cyber Monday",
+   "date": "2026-11-27",
+   "in_days": 3,
+   "keywords": [
+    "black friday",
+    "cyber monday",
+    "bfcm",
+    "sale"
+   ]
+  },
+  {
+   "event": "Christmas",
+   "date": "2026-12-25",
+   "in_days": 31,
+   "keywords": [
+    "christmas",
+    "holiday",
+    "xmas",
+    "december"
+   ]
+  },
+  {
+   "event": "New Year",
+   "date": "2027-01-01",
+   "in_days": 38,
+   "keywords": [
+    "new year",
+    "2027",
+    "2028",
+    "january",
+    "countdown"
+   ]
+  }
+ ],
+ "note": "Free sources only. _err = source failed, skipped gracefully."
+}
