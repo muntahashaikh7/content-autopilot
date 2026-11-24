@@ -1,0 +1,13 @@
+{
+ "date": "2026-11-24",
+ "news_home_decor": [
+  "_err:HTTPError"
+ ],
+ "news_kitchen_storage": [
+  "_err:HTTPError"
+ ],
+ "news_wall_shelf": [
+  "_err:HTTPError"
+ ],
+ "note": "Free sources only. _err = source failed, skipped gracefully."
+}
