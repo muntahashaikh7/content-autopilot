@@ -214,6 +214,11 @@
    "date": "2026-11-23",
    "key": "mirror-time",
    "formula": "F3 comedy-exaggeration"
+  },
+  {
+   "date": "2026-11-24",
+   "key": "selective-hearing",
+   "formula": "F4 angry-sweet"
   }
  ]
 }

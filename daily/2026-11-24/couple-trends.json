@@ -1,0 +1,99 @@
+{
+ "date": "2026-11-24",
+ "news_ai_couple_reels": [
+  "google news",
+  "truth or fake - france riots: ai photos falsely depict elderly couple 'stripped and robbed' - france 24",
+  "creator behind viral avengers x south indian wedding crossover reel reveals the ai solutions he used - indulgexpress",
+  "instagram trending kalyani song ai reels editing tutorial | ai girl animation video editing tutorial - youtube",
+  "kiara advani and sidharth malhotra recreate 80s bollywood magic in viral ai trend, fans compare their loo - the times of india",
+  "tom holland confirms marriage to zendaya following speculation and viral ai pics - bbc",
+  "ai turns 12 years of couple chats into wedding story; anthropic employee’s project goes viral - the times of india",
+  "ai influencers are coming for your feeds - time magazine",
+  "fact check: ai video of white couple with two black babies in delivery room is not real -- comedy skit - yahoo",
+  "a little piece of indianapolis history is taking shape on the lathe! 🏈 turning this blank made with actual rca dome stadium seats, and i can't wait to see it all polished up and assembled into a pen. - newsbreak: local news &amp; alerts",
+  "6 best ai companion apps for couples who roleplay together - technology org",
+  "ai baby videos are going viral. are they cute, creepy, or cringe? - mashable sea",
+  "mom turns texts from teenage son into an emo ballad, and it has no right to be this good - upworthy",
+  "meet the courageous woman bringing a 1970s ski resort back to life - forbes",
+  "false! images of lgbtq couple at black star square not ai-generated, majority chief whip backtracks - ghana fact"
+ ],
+ "news_couple_comedy": [
+  "google news",
+  "the vogue business tiktok trend tracker - vogue",
+  "10 fun tiktok trends for couples to try out when traveling - matador network",
+  "couple recording a tiktok trend gets interrupted by their confused dad who can’t look away - upworthy",
+  "social media's ‘weekend lover’ trend has users commiserating about secret situationships - people.com",
+  "“couples hire me to recreate tiktok trends”: meet a full-time wedding content creator - toronto life",
+  "35 best movies to watch if you love the fake dating trope, ranked - collider",
+  "25 australian tiktok creators brands should know in 2025 - sprout social",
+  "5 pinoy celebrity couples who make us laugh with their online videos - gma network",
+  "100 funny couples captions for instagram to share on national couples day - yourtango",
+  "the ultimate comedy prop? a newborn baby! new dads jack whitehall and joel dommett lead trend for famous fathers using their recent arrivals to unleash a slew of dad jokes - daily mail",
+  "25 top influencer couples taking over 2026 with billion-dollar brand empires - amra &amp; elma"
+ ],
+ "news_short_drama": [
+  "google news",
+  "\"the drama\" is an unsettling dark comedy - the rider news",
+  "wedding comedy 'the drama' is an audaciously uncomfortable affair - wbur",
+  "'the drama' review: zendaya and robert pattinson star in a provocative wedding comedy - npr",
+  "'the drama' is a bleak comedy with no payoff - time magazine",
+  "‘the drama’ review: kristoffer borgli’s provocative, squirm-inducing rom-com - slant magazine",
+  "'some will be appalled': the drama's horrifying twist is set to divide audiences - bbc",
+  "heather rae el moussa roasts husband tarek for creating a mess at home, and his ex-wife christina haack agrees - people.com",
+  "john park and baek jin kyung’s married-couple acting sparks a ‘blast’ of chemistry... “why are they so good?” - 스포츠조선",
+  "'the drama' review: zendaya and robert pattinson deliver cringe comedy in troubling wedding romance - mashable",
+  "courtney stodden slams seinfeld’s jason alexander for rubbing phone on her chest when she was 17 - us weekly",
+  "frankie muniz's estranged wife responds after actor deletes initial divorce announcement: 'this world is so f--ked' - page six",
+  "the affair was just the beginning: kim hye-soo in riveting black comedy k-drama - south china morning post",
+  "the 10 most perfect comedy-drama shows of the last 5 years, ranked - collider",
+  "kaleb cooper and charlie ireland dance to 'saturday night' in hilarious unseen wedding video - heart radio"
+ ],
+ "seasonal_next_60d": [
+  {
+   "event": "Thanksgiving",
+   "date": "2026-11-26",
+   "in_days": 2,
+   "keywords": [
+    "thanksgiving",
+    "fall",
+    "autumn",
+    "friendsgiving"
+   ]
+  },
+  {
+   "event": "Black Friday / Cyber Monday",
+   "date": "2026-11-27",
+   "in_days": 3,
+   "keywords": [
+    "black friday",
+    "cyber monday",
+    "bfcm",
+    "sale"
+   ]
+  },
+  {
+   "event": "Christmas",
+   "date": "2026-12-25",
+   "in_days": 31,
+   "keywords": [
+    "christmas",
+    "holiday",
+    "xmas",
+    "december"
+   ]
+  },
+  {
+   "event": "New Year",
+   "date": "2027-01-01",
+   "in_days": 38,
+   "keywords": [
+    "new year",
+    "2027",
+    "2028",
+    "january",
+    "countdown"
+   ]
+  }
+ ],
+ "note": "Free sources only. _err = source failed, skipped gracefully. IG model pages need login — checked on main runtime, not here."
+}
