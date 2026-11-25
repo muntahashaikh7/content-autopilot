@@ -219,6 +219,11 @@
    "date": "2026-11-24",
    "key": "selective-hearing",
    "formula": "F4 angry-sweet"
+  },
+  {
+   "date": "2026-11-25",
+   "key": "plant-parent",
+   "formula": "F1 romantic-sweet"
   }
  ]
 }

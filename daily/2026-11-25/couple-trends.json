@@ -1,0 +1,88 @@
+{
+ "date": "2026-11-25",
+ "news_ai_couple_reels": [
+  "google news",
+  "#viral #ai #goviral - newsbreak: local news &amp; alerts",
+  "truth or fake - france riots: ai photos falsely depict elderly couple 'stripped and robbed' - france 24",
+  "chatgpt '90s photo trend: 10 best ai photo editing prompts for the viral retro look - esquire india",
+  "instagram trending kalyani song ai reels editing tutorial | ai girl animation video editing tutorial - youtube",
+  "tom holland confirms marriage to zendaya following speculation and viral ai pics - bbc",
+  "taylor swift accused of using ai in viral videos: what to know - newsweek",
+  "they were dating ai partners when they found real love – with each other - the guardian",
+  "debunking the ai food delivery hoax that fooled reddit - platformer",
+  "fact check: ai video of white couple with two black babies in delivery room is not real -- comedy skit - yahoo",
+  "ai videos are tricking tourists into visiting places that don’t exist. that’s just the beginning - fast company",
+  "people are turning text message threads into fun songs using ai in a new trend on social media - nbc news",
+  "world’s most advanced ai robots get into couple’s quarrel in bizarre video - new york post",
+  "woman marries ai-generated boyfriend, wears augmented reality smart glasses to exchange rings - people.com",
+  "watch the viral 'ad' that imagines aged elon musk, sam altman, and jeff bezos promoting a creepy energy source for ai - business insider"
+ ],
+ "news_couple_comedy": [
+  "_err:HTTPError"
+ ],
+ "news_short_drama": [
+  "google news",
+  "\"the drama\" is an unsettling dark comedy - the rider news",
+  "wedding comedy 'the drama' is an audaciously uncomfortable affair - wbur",
+  "'the drama' is a half-baked comedy about wedding stress and cancel culture - npr",
+  "'the drama' is a bleak comedy with no payoff - time magazine",
+  "‘the drama’ review: kristoffer borgli’s provocative, squirm-inducing rom-com - slant magazine",
+  "‘dinks,’ improvised multi-cam comedy from marta kauffman, a go at prime video - the hollywood reporter",
+  "'some will be appalled': the drama's horrifying twist is set to divide audiences - bbc",
+  "heather rae el moussa roasts husband tarek for creating a mess at home, and his ex-wife christina haack agrees - people.com",
+  "john park and baek jin kyung’s married-couple acting sparks a ‘blast’ of chemistry... “why are they so good?” - 스포츠조선",
+  "frankie muniz's estranged wife responds after actor deletes initial divorce announcement: 'this world is so f--ked' - page six",
+  "the 10 most perfect comedy-drama shows of the last 5 years, ranked - collider",
+  "kaleb cooper and charlie ireland dance to 'saturday night' in hilarious unseen wedding video - heart radio",
+  "'the drama' review: zendaya and robert pattinson star in a provocative wedding comedy - npr",
+  "every song on ‘the drama’ soundtrack - nme"
+ ],
+ "seasonal_next_60d": [
+  {
+   "event": "Thanksgiving",
+   "date": "2026-11-26",
+   "in_days": 1,
+   "keywords": [
+    "thanksgiving",
+    "fall",
+    "autumn",
+    "friendsgiving"
+   ]
+  },
+  {
+   "event": "Black Friday / Cyber Monday",
+   "date": "2026-11-27",
+   "in_days": 2,
+   "keywords": [
+    "black friday",
+    "cyber monday",
+    "bfcm",
+    "sale"
+   ]
+  },
+  {
+   "event": "Christmas",
+   "date": "2026-12-25",
+   "in_days": 30,
+   "keywords": [
+    "christmas",
+    "holiday",
+    "xmas",
+    "december"
+   ]
+  },
+  {
+   "event": "New Year",
+   "date": "2027-01-01",
+   "in_days": 37,
+   "keywords": [
+    "new year",
+    "2027",
+    "2028",
+    "january",
+    "countdown"
+   ]
+  }
+ ],
+ "note": "Free sources only. _err = source failed, skipped gracefully. IG model pages need login — checked on main runtime, not here."
+}
