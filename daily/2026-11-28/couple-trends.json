@@ -1,0 +1,72 @@
+{
+ "date": "2026-11-28",
+ "news_ai_couple_reels": [
+  "google news",
+  "truth or fake - france riots: ai photos falsely depict elderly couple 'stripped and robbed' - france 24",
+  "ai parodies mock nvidia ceo jensen huang's affair - 조선일보",
+  "6 best ai companion apps for couples who roleplay together - technology org",
+  "chatgpt '90s photo trend: 10 best ai photo editing prompts for the viral retro look - esquire india",
+  "instagram’s viral chatgpt ’80s photo trend: how to make your own stylish and unique retro ai picture - the times of india",
+  "tom holland confirms marriage to zendaya following speculation and viral ai pics - bbc",
+  "debunking the ai food delivery hoax that fooled reddit - platformer",
+  "fact check: ai video of white couple with two black babies in delivery room is not real -- comedy skit - yahoo",
+  "#scoopzreels #scoopz #reels#viralfyp #fypviral #ai - newsbreak: local news &amp; alerts",
+  "people are turning text message threads into fun songs using ai in a new trend on social media - nbc news",
+  "ai videos are tricking tourists into visiting places that don’t exist. that’s just the beginning - fast company",
+  "woman marries ai-generated boyfriend, wears augmented reality smart glasses to exchange rings - people.com",
+  "watch the viral 'ad' that imagines aged elon musk, sam altman, and jeff bezos promoting a creepy energy source for ai - business insider",
+  "the internet's best jokes about the jensen huang and nvidia mess - usa today"
+ ],
+ "news_couple_comedy": [
+  "google news",
+  "mom turns texts from teenage son into an emo ballad, and it has no right to be this good - upworthy",
+  "at 82 and 70, married influencers show it’s never too late to go viral - south china morning post",
+  "tamil nadu's liquor buying experience is getting a digital makeover. from thursday, customers can visit tasmace2e.in to check real-time stock at over 4,000 tasmac outlets, book and pay online, then collect their purchase from a selected shop. users must ver - instagram",
+  "10 fun tiktok trends for couples to try out when traveling - matador network",
+  "cakewalk or not? 5 creator couples get candid over content creation - shethepeople",
+  "jack whitehall, joel domett and seann walsh dole out the dad jokes - daily mail"
+ ],
+ "news_short_drama": [
+  "google news",
+  "wedding comedy 'the drama' is an audaciously uncomfortable affair - wbur",
+  "babies, bbc one review - poignant, funny and insightful, an exceptional drama series from stefan golaszewski - the arts desk",
+  "melissa mccarthy shares the 'real keys to happiness' in funny video - today.com",
+  "19 funny shows that’ll leave you in stitches - netflix",
+  "the perfect way to traverse the airport - facebook",
+  "'art of leaving' off-broadway review — comedy-drama explores multigenerational marriage crises - new york theatre guide",
+  "review: \"the drama\" is a nightmare to watch and even worse to describe - blog - the film experience",
+  "how the final scene of the drama sheds light on the meaning of its big twist - time magazine",
+  "all about hannah berner's husband, fellow comedian des bishop - people.com",
+  "make ‘em laugh: the 20 best comedies on amazon prime video - entertainment weekly",
+  "unforgotten, season 5: 7 surprising facts about sanjeev bhaskar - pbs",
+  "ashley padilla is escalating things - vulture",
+  "jennifer aniston &amp; adam sandler tease murder mystery 2 in funny video call - screenrant",
+  "it's not about the nail - a funny truth about marriage - video - crosswalk.com"
+ ],
+ "seasonal_next_60d": [
+  {
+   "event": "Christmas",
+   "date": "2026-12-25",
+   "in_days": 27,
+   "keywords": [
+    "christmas",
+    "holiday",
+    "xmas",
+    "december"
+   ]
+  },
+  {
+   "event": "New Year",
+   "date": "2027-01-01",
+   "in_days": 34,
+   "keywords": [
+    "new year",
+    "2027",
+    "2028",
+    "january",
+    "countdown"
+   ]
+  }
+ ],
+ "note": "Free sources only. _err = source failed, skipped gracefully. IG model pages need login — checked on main runtime, not here."
+}
