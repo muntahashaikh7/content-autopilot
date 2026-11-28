@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-28",
+ "news_nostalgia": [
+  "google news",
+  "'90s christmas: traditions we're bringing back for our kids - the everymom",
+  "‘90s kids are parents now—and they’re passing these 6 lessons to gen alpha - parents",
+  "90s con brings nostalgia, celebrities, and childhood memories back to hartford - nbc connecticut",
+  "“memory unlocked”: ’90s kids are sharing the nostalgic family dinners they ate all the time 30 years ago that you don’t see that often anymore - buzzfeed",
+  "jooyoung interview: '90s kids', new music and europe tour - sweety high",
+  "a new york times reader reminisced about “double dare,” the nickelodeon children’s show that debuted 40 years ago, in our comments with our reporter, sopan deb. see what else our readers are getting nostalgic about here. https://nyti.ms/3vnskbx - facebook",
+  "8 sounds every ’90s kid instantly recognizes - mental floss",
+  "19 super-specific memories that are giving people instant childhood nostalgia - upworthy",
+  "who says picture frames have to be square? her rounded designs and retro colorways look stunning in any corner of the house! - popbee",
+  "retro parenting: raising your kids like it's 1996! - capsule nz",
+  "look: these iconic '90s shampoos deserve a nostalgia reboot - popcrush",
+  "these iconic '90s halloween costumes will make you want to hit rewind - the pioneer woman",
+  "what if your kids had a '90s summer? - the everymom",
+  "comedian sean hegarty sets up a retro room with items collected from his childhood in the 80s and 90s - northernirelandworld"
+ ],
+ "news_retro": [
+  "google news",
+  "pinterest 2026 trend report: nostalgic toys are back - the mercury news",
+  "bored of the ai saree trend? try the ‘hug my younger self’ using gemini nano banana: how to create it - moneycontrol.com",
+  "pinterest 2026 trend report: nostalgic toys are back - bestreviews",
+  "1980s ai photo trend: 10+ prompts to turn your photos into vintage kerala hero and heroine images from old - the economic times",
+  "seen the viral 1980s photo trend?: here's the story behind it, how to create your own ai photos and whether... - bhaskar english",
+  "hug my younger self prompt : 25 ai prompts to relive your childhood - techmitra",
+  "forget viral saree ai trend: how to create ‘hug my younger self’ images with gemini nano banana - livemint",
+  "viral ai photo trend lets you create emotional ‘childhood self’ portraits; here’s how - mathrubhumi english",
+  "the viral ‘handshake with younger self’ trend is melting hearts: create your own ai-generated ‘childhood se... - bhaskar english",
+  "after ai saree, ‘hug my younger self’ ruling instagram trends: here’s a step-by-step guide on how you can c... - bhaskar english"
+ ],
+ "seasonal_next_60d": [
+  {
+   "event": "Christmas",
+   "date": "2026-12-25",
+   "in_days": 27,
+   "keywords": [
+    "christmas",
+    "holiday",
+    "xmas",
+    "december"
+   ]
+  },
+  {
+   "event": "New Year",
+   "date": "2027-01-01",
+   "in_days": 34,
+   "keywords": [
+    "new year",
+    "2027",
+    "2028",
+    "january",
+    "countdown"
+   ]
+  }
+ ],
+ "note": "Free sources only. _err = source failed, skipped gracefully."
+}
